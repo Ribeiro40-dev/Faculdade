@@ -14,3 +14,7 @@ print("fim")
 
 
 
+int i = 0:
+do 
+    1++:
+
