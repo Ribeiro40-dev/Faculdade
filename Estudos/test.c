@@ -1,17 +1,10 @@
 #include <stdio.h>
-int main()
+
+main()
 {
-    /* comentarios */
-    printf("hello words! ")
+    
+    printf("hello words! ");
 
-    if (numero%2 == 0 )
-    {
-        printf('Numero par! ')
-    }
-    else
-
-    {
-        printf('O numero é impar! ')
-    }
+    
     return 0;
 }

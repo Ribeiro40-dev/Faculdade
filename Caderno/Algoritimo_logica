@@ -1,3 +1,15 @@
+Lógica de programação
+    É a utilizaçaõ de conseitos sequenciais em passos (instruçoes)
+    para realizar um objetivo, uma tarefa.
+
+Lógica proposicional
+    não             negação  (~)
+    E               conjunção(^)
+    Ou              disjunção(v)
+    se...então      condicional(->)
+    se e somente se bicondicional(<->)
+
+
 
 
 Caracteristica de linguagens
