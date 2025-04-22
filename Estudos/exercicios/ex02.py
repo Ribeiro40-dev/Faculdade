@@ -1,2 +1,1 @@
-nome = input("Digite o seu nome: ")
-print("Seja bem vindo, {}! ".format(nome))
+print('\033[45mola mundo/')
