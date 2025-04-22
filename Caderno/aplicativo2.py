@@ -37,7 +37,7 @@ frame.place(relx=0.5, rely=0.5, anchor="center")
 titulo = tk.Label(frame, text="🌿 Projeto Saúde", font=("Helvetica", 20, "bold"), fg="#00bcd4", bg="#0d1117")
 titulo.pack(pady=(10, 5))
 
-# Subtítulo
+# SubtítulOS
 subtitulo = tk.Label(frame, text="Escolha um tema para explorar:", font=("Helvetica", 12), fg="#a0c4ff", bg="#0d1117")
 subtitulo.pack(pady=5)
 
