@@ -5,6 +5,7 @@ from PIL import Image, ImageTk  # pip install pillow
 # Funções
 def abrir_ganhar_peso():
     messagebox.showinfo("💪 Como Ganhar Peso", "Aqui vão as dicas para ganhar peso de forma saudável!")
+    print("Vamos ganhar peso?")
 
 def abrir_perder_peso():
     messagebox.showinfo("🔥 Como Perder Peso", "Aqui vão as estratégias para perder peso com saúde!")
